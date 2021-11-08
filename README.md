@@ -1,8 +1,6 @@
-- 👋 Hi, I’m @febrinaqh
+- 👋 Hi, I’m Febby.
 - 👀 I’m interested in food, game, learn new things.
-- 🌱 I’m currently learning korean, programming, dance.
-
-- 📫 How to reach me on instagram @febrinaqh
+- 📫 How to reach me on instagram @febrinaqh.
 
 <!---
 febrinaqh/febrinaqh is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
